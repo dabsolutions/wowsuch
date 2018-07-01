@@ -21,7 +21,7 @@ Run `grunt build` to test the project builds without fail, the built project wil
 #### v7.0
 ##### 1/7/2018
 
-*Start modifying for KMD
+* Start modifying for KMD
 
 #### v0.6.0
 ##### 27/04/2014
@@ -93,5 +93,5 @@ Run `grunt build` to test the project builds without fail, the built project wil
 
 Released under the MIT license: [opensource.org/licenses/MIT][2]
 
-  [1]: http://wowsuch.io
+  [1]: http://calc.komodo.services
   [2]: http://opensource.org/licenses/MIT
