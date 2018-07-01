@@ -1,12 +1,12 @@
-# [Wow Such][1]
+# [Komodo Calc][1]
 
-Dogecoin price calculator.
+Komodo price calculator.
 
 ### Development
 
 Clone the project:
 
-`$ git clone git@github.com:swirlycheetah/wowsuch.git`
+`$ git clone https://github.com/komodoservices/komodo-calc.git`
 
 Install the required development modules:
 
@@ -17,6 +17,11 @@ The main application logic can be found in `src/such.js`.
 Run `grunt build` to test the project builds without fail, the built project will be in the `build` folder.
 
 ### Changelog
+
+#### v7.0
+##### 1/7/2018
+
+*Start modifying for KMD
 
 #### v0.6.0
 ##### 27/04/2014
